@@ -15,6 +15,10 @@ pyaudio (for handling microphone input)
 You can install these using pip:
 pip install SpeechRecognition pyttsx3 pyaudio
 
+#Install all the dependencies listed in requirements.txt by running:
+pip install -r requirements.txt
+
+
 #Installation
 
 #Clone the Repository:
