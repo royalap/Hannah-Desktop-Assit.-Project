@@ -18,7 +18,7 @@ pip install SpeechRecognition pyttsx3 pyaudio
 #Installation
 
 #Clone the Repository:
-'git clone https://github.com/royalap/Hannah-Desktop-Assit-Project.git'
+'git clone https://github.com/royalap/Hannah-Desktop-Assit.-Project.git'
 cd Hannah-Desktop-Assit-Project
 
 #Run the Assistant: Run the main Python script to start the assistant:
