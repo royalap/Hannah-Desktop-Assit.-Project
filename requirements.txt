@@ -1,0 +1,18 @@
+clipboard
+winsound ; Platform: Windows
+datetime
+os
+winapps ; Platform: Windows
+psutil
+pyautogui
+pyjokes
+pyttsx3
+pywhatkit
+requests
+smtplib
+speechrecognition
+time
+subprocess
+random
+webbrowser
+email
